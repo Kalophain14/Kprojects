@@ -1,5 +1,3 @@
-Certainly! Here’s a sample README file for a phone tracker project. You can modify it to fit your specific project details:
-
 # Phone Tracker Project
 
 ## Table of Contents
