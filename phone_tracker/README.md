@@ -8,7 +8,6 @@ Certainly! Here’s a sample README file for a phone tracker project. You can mo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
@@ -17,45 +16,31 @@ The Phone Tracker project is a location-tracking application designed to help yo
 
 ## Features
 
-- Real-time location tracking of mobile devices.
+- Real-time location tracking of phone numbers.
 - User-friendly web interface for tracking.
-- Supports multiple devices.
 - Secure authentication and access control.
-- History of device locations.
-- Geofencing and alerts.
 
 ## Installation
 
 1. Clone this repository to your local machine:
-
-git clone https://github.com/your-username/phone-tracker.git
+- git clone https://github.com/your-username/phone-tracker.git
 
 2. Install the required dependencies:
 
 cd phone-tracker
-npm install
+npm install opencage, geocoder, OpenCageGeocode
 
-3. Set up the database and environment variables (config file) with the necessary credentials and configurations.
+3. Set up the key using Opencage API https://opencagedata.com/
 
 4. Start the application:
 
 npm start
 
-The Phone Tracker application is now running and accessible at `http://localhost:3000` by default. Make sure to customize the configuration according to your environment.
+The Phone Tracker application is now running and accessible at mylocation.html by default. Make sure to customize the configuration according to your environment.
 
 ## Usage
 
 1. Visit the application in your web browser.
-
-2. Register for an account or log in with your credentials.
-
-3. Add devices to your account and configure their tracking settings.
-
-4. Start tracking your devices in real-time.
-
-5. Use the geofencing and alert features to monitor device movement.
-
-6. View the history of device locations on the user dashboard.
 
 ## Contributing
 
