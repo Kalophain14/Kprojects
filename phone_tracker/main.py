@@ -4,7 +4,7 @@ from phonenumbers import geocoder, carrier
 from opencage.geocoder import OpenCageGeocode
 
 # Replace 'number' with the actual phone number you want to lookup
-number = "+27817373029"  # Replace with your phone number
+number = ""  # insert your phone number here with a country code
 
 # Parse the phone number
 pepnumber = phonenumbers.parse(number, "US")
