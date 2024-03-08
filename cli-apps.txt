@@ -1,5 +1,0 @@
-ffmeg
-imagemagick
-wget
-telnet
-tldr
